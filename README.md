@@ -13,5 +13,5 @@
 - Checkout process (shipping, payment method, etc)
 - Database seeder (products & users)
 - CRUD operations with RESTFUL routes
-- Third party API requests (PayPal / credit card integration, Amazon: S3 bucket for image storing etc.)
+- Third party API requests (PayPal / credit card integration)
 
