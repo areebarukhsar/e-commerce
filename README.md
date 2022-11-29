@@ -14,7 +14,7 @@
 - Database seeder (products & users)
 - Third party API requests (PayPal / credit card integration)
 
-https://mern-proshop-app.herokuapp.com/
+
 
 ![Screenshot (37)](https://user-images.githubusercontent.com/86147371/156919080-dcd53724-fb8b-494e-8b43-9ec8b552cfa9.png)
 
